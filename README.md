@@ -1,5 +1,5 @@
 # Logo
-The organization logos in Romanian.
+Logo-urile AZS-MR în română.
 
 ### `logo-ro.svg`
 
